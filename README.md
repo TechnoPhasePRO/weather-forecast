@@ -36,7 +36,7 @@ To run the Weather Forecast API locally, follow these steps:
         "longitude": -74.0060
     }
     ```
-    ![Response In Database](image.png)
+    ![Response In Database](./images/image.png)
 
 - /locations/<locationId>:
     `GET Method`
@@ -61,7 +61,7 @@ To run the Weather Forecast API locally, follow these steps:
         "cloudiness": 20
     }
     ```
-    ![Weather Database Document](image-1.png)
+    ![Weather Database Document](./images/image-1.png)
 - /history:
     `GET Method`
     ```json
